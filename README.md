@@ -1,2 +1,2 @@
 # TarakanyaOtrava
-qwe
+Intelligent mobile applications
